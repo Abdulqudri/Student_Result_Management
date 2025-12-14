@@ -1,3 +1,4 @@
+using StudentResults.Models;
 namespace StudentResults.Services
 {
     public class StudentService

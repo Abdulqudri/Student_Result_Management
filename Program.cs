@@ -1,5 +1,8 @@
-﻿namespace StudentResults;
+﻿using StudentResults.Services;
+using StudentResults.Storage;
 
+
+namespace StudentResults;
 class Program
 {
     static void Main()

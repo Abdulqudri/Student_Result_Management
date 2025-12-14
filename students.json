@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "9f16066f-f4ea-43c0-baa1-c689a8b30669",
+    "Name": "abdulqudri",
+    "Results": [
+      {
+        "CourseCode": "Math201",
+        "Score": 89,
+        "Grade": 0,
+        "GradePoint": 5
+      },
+      {
+        "CourseCode": "Eng222",
+        "Score": 67,
+        "Grade": 1,
+        "GradePoint": 4
+      }
+    ]
+  }
+]

@@ -1,3 +1,4 @@
+using StudentResults.Models;
 using System.Text.Json;
 
 namespace StudentResults.Storage

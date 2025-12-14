@@ -22,7 +22,7 @@ namespace StudentResults.Models
             Grade.C => 3,
             Grade.D => 2,
             Grade.E => 1,
-            Grade.F => 0
+            _ => 0
         };
     }
 }
